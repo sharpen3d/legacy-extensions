@@ -1,5 +1,6 @@
-# bpx
-Blender 'Pixel Perfect' Extensions and Asset Library created by Luke Stilson (sharpen3d)
+# Legacy Repo
+This repo exists as a legacy archive of Extensions and methods proir to Blender 2.3
+The following information pertains to the contents as they exist in this repository, however, most tools and methods have been transitioned into their own repos, to maintain more effectively.
 
 This repo holds primarily python tools related to art creation in Blender
 It is recommended to use these scripts and associated files with the most recent stable version of Blender
